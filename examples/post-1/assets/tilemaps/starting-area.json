@@ -6351,8 +6351,18 @@
                 }]
         }, 
         {
+         "columns":39,
          "firstgid":721,
-         "source":"City-tileset.tsx"
+         "image":"..\/tilesets\/City-Terrainset\/Spritesheet\/roguelikeCity_transparent.png",
+         "imageheight":475,
+         "imagewidth":628,
+         "margin":1,
+         "name":"roguelikeCity_transparent",
+         "spacing":0,
+         "tilecount":1131,
+         "tileheight":16,
+         "tilewidth":16,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
