@@ -1,0 +1,14 @@
+{ "columns":26,
+ "image":"..\/..\/..\/..\/..\/..\/pokeMon\/Tile-City-Streets\/Tilemap\/tilemap_packed.png",
+ "imageheight":288,
+ "imagewidth":432,
+ "margin":1,
+ "name":"tilemap_packed",
+ "spacing":0,
+ "tilecount":442,
+ "tiledversion":"1.8.4",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.8"
+}
